@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Raviydv01
-- 👀 I’m interested in Ai/Ml
-- 🌱 I’m currently learning basics of Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 Currently I am studying Bachelor of computer Engineering at Cosmos College
+- 👀 I’m interested in cloud Security
+- 🌱 I’m currently learning automation and cybersecurity 
+- 💞️ I’m looking to enhance my contribution on open source.
+- 📫 Currently I am studying Bachelor of computer Engineering at Cosmos College of Managemanr and technology
 - 😄 
 - ⚡ Fun fact:
 
